@@ -24,4 +24,4 @@ Fedora: sudo dnf install python3-matplotlib
 Red Hat: sudo yum install python3-matplotlib
 Arch: sudo pacman -S python-matplotlib
 
-If you have any questions or comments you can try to reach me on here, but I will likely be sleeping for the next three days solid.
+I hope you enjoy using this. I will likely come back later and add more polish.
